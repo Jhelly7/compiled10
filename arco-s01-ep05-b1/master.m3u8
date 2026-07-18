@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=1543004,RESOLUTION=1280x720
+https://raw.githubusercontent.com/Jhelly7/compiled10/job-arco-s01-ep05-b1/arco-s01-ep05-b1/hls/index.m3u8
