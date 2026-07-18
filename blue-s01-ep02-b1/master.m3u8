@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=1589764,RESOLUTION=1280x720
+https://raw.githubusercontent.com/Jhelly7/compiled10/job-blue-s01-ep02-b1/blue-s01-ep02-b1/hls/index.m3u8
