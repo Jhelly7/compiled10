@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=2002872,RESOLUTION=1280x720
+https://raw.githubusercontent.com/Jhelly7/compiled10/job-robots-s01-ep05-b1/robots-s01-ep05-b1/hls/index.m3u8
