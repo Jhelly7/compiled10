@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=3313629,RESOLUTION=1722x720
+https://raw.githubusercontent.com/Jhelly7/compiled10/job-mario-s01-ep202-b1/mario-s01-ep202-b1/hls/index.m3u8
