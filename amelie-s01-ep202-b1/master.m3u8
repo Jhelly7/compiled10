@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=1692244,RESOLUTION=1382x720
+https://raw.githubusercontent.com/Jhelly7/compiled10/job-amelie-s01-ep202-b1/amelie-s01-ep202-b1/hls/index.m3u8
